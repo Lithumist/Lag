@@ -1,3 +1,5 @@
-Lag.
+Lag. A hack 'n' slash game with laggy enemies.
 
-Developed with Javascript and Jaws2D
+Tech:
+ > HTML5 w/ Javascript
+ > JawsJS library
